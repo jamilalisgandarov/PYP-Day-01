@@ -1,1 +1,3 @@
 Lorem ipsum dolar dit samet.
+
+New fancy feature #1
